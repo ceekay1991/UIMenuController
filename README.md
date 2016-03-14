@@ -1,5 +1,3 @@
-# UIMenuController
-UIMenuController 重新实现
 ##实现类似UIMenuController的功能 点击弹出菜单
 
 #一、需要添加的其它依赖
@@ -29,3 +27,16 @@ UIMenuController 重新实现
         activity.frame = CGRectMake(5, 5, 35, 35);
         [activity startAnimating];
         [controller showOtherView:activity onItem:itemIndex];
+  #截图
+  ![image](https://raw.githubusercontent.com/ceekay1991/UIMenuController/master/screenShoot/1.png)
+ ----------------------
+ ----------------------
+  ![image](https://raw.githubusercontent.com/ceekay1991/UIMenuController/master/screenShoot/2.png)
+   ----------------------
+ ----------------------
+  ![image](https://raw.githubusercontent.com/ceekay1991/UIMenuController/master/screenShoot/4.png)
+  ----------------------
+ ----------------------
+  ![image](https://raw.githubusercontent.com/ceekay1991/UIMenuController/master/screenShoot/3.png)
+   ----------------------
+ ----------------------

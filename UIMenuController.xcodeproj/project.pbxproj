@@ -21,6 +21,7 @@
 		E11564D21C969FCE00B75E91 /* CkUIDrawArcUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = E11564D01C969FCE00B75E91 /* CkUIDrawArcUtil.m */; };
 		E11564D71C96A00F00B75E91 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E11564D61C96A00F00B75E91 /* Foundation.framework */; };
 		E11564D91C96A02D00B75E91 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E11564D81C96A02D00B75E91 /* CoreGraphics.framework */; };
+		E1E311191C96F2420093EAB4 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E1E311181C96F2420093EAB4 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		E11564D01C969FCE00B75E91 /* CkUIDrawArcUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CkUIDrawArcUtil.m; sourceTree = "<group>"; };
 		E11564D61C96A00F00B75E91 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E11564D81C96A02D00B75E91 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		E1E311181C96F2420093EAB4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 		E115649A1C969EB500B75E91 = {
 			isa = PBXGroup;
 			children = (
+				E1E311181C96F2420093EAB4 /* README.md */,
 				E11564D81C96A02D00B75E91 /* CoreGraphics.framework */,
 				E11564D61C96A00F00B75E91 /* Foundation.framework */,
 				E11564CC1C969F6800B75E91 /* UIKit.framework */,
@@ -225,6 +228,7 @@
 				E11564C91C969F4900B75E91 /* CKUIMenuContentView.m in Sources */,
 				E11564CB1C969F4900B75E91 /* CKUIMenuView.m in Sources */,
 				E11564AB1C969EB500B75E91 /* AppDelegate.m in Sources */,
+				E1E311191C96F2420093EAB4 /* README.md in Sources */,
 				E11564CA1C969F4900B75E91 /* CKUIMenuControllerBgView.m in Sources */,
 				E11564A81C969EB500B75E91 /* main.m in Sources */,
 			);
